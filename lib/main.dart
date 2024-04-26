@@ -123,3 +123,28 @@ class _MyHomePageState extends State<MyHomePage> {
     );
   }
 }
+
+///TODO: convert to routes
+///TODO: make home screen
+///TODO: copy and reformat curicula
+///TODO: add quiz funcitonality
+///TODO: add log in functionality
+///TODO:
+///TODO:
+///TODO:
+///TODO:
+///TODO:
+///TODO:
+///TODO:
+///TODO:
+///TODO:
+///TODO:
+///TODO:
+///TODO:
+///TODO:
+///TODO:
+///TODO:
+///TODO:
+///TODO:
+///TODO:
+///
