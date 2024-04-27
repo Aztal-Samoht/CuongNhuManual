@@ -1,11 +1,11 @@
 {
-    "name": "cuong_nhu_manual",
-    "short_name": "cuong_nhu_manual",
+    "name": "coung_nhu_examples",
+    "short_name": "coung_nhu_examples",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "a new starting point for the cuong-nhu app",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

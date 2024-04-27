@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "aztalapps" "\0"
-            VALUE "FileDescription", "cuong_nhu_manual" "\0"
+            VALUE "FileDescription", "coung_nhu_examples" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "cuong_nhu_manual" "\0"
-            VALUE "LegalCopyright", "Copyright (C) 2023 aztalapps. All rights reserved." "\0"
-            VALUE "OriginalFilename", "cuong_nhu_manual.exe" "\0"
-            VALUE "ProductName", "cuong_nhu_manual" "\0"
+            VALUE "InternalName", "coung_nhu_examples" "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2024 aztalapps. All rights reserved." "\0"
+            VALUE "OriginalFilename", "coung_nhu_examples.exe" "\0"
+            VALUE "ProductName", "coung_nhu_examples" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

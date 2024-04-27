@@ -5,10 +5,10 @@
 // 'flutter create' template.
 
 // The application's name. By default this is also the title of the Flutter window.
-PRODUCT_NAME = cuong_nhu_manual
+PRODUCT_NAME = coung_nhu_examples
 
 // The application's bundle identifier
-PRODUCT_BUNDLE_IDENTIFIER = aztalapps.cuongNhuManual
+PRODUCT_BUNDLE_IDENTIFIER = aztalapps.coungNhuExamples
 
 // The copyright displayed in application information
-PRODUCT_COPYRIGHT = Copyright © 2023 aztalapps. All rights reserved.
+PRODUCT_COPYRIGHT = Copyright © 2024 aztalapps. All rights reserved.
